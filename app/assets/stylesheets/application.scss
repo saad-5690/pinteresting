@@ -1,0 +1,26 @@
+$body-bg: #f39c12;
+$brand-primary: #f1c40f; 
+
+$gray-base : #ffffff;
+$gray-darker : #ffffff;
+$gray-dark : #777;
+$gray : #ffffff;
+$gray-light : #ffffff;
+$gray-lighter: #ffffff;
+
+$navbar-default-brand-color: #f39c12;
+
+$font-family-sans-serif: "Calibri", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "bootstrap/theme";
+
+.center{
+	text-align : center;
+}
+
+.navbar-brand{
+	font-weight: bold;
+}
